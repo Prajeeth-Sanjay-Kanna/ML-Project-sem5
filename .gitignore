@@ -1,0 +1,6 @@
+ml_env/
+__pycache__/
+*.pyc
+.keras/
+*.h5
+.env
